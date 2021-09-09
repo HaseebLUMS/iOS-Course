@@ -2,4 +2,4 @@
 iOS Development Course
 
 PreWork: 
-![Alt Text](https://drive.google.com/file/d/1AySmcNDjss15VskLvbpZVPYhKbkNX1LW/view?usp=sharing)
+![](ezgif-2-af9190d3e226.gif)
